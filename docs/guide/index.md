@@ -9,7 +9,7 @@ ms.subservice: reference-architecture
 ms.date: 01/08/2020
 ---
 
-# Azure Application Architecture Guide
+# Azure Application Architecture Guide 
 
 This guide presents a structured approach for designing applications on Azure that are scalable, resilient, and highly available. It is based on proven practices that we have learned from customer engagements.
 
